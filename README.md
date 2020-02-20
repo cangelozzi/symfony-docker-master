@@ -7,6 +7,7 @@ This is a lightweight stack based on Alpine Linux for running Symfony 5 into Doc
 ### Prerequisites
 
 - [Docker](https://www.docker.com/)
+- For Symfony5, we need at least php7.2
 
 ### Container
 
